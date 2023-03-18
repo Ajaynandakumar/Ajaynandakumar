@@ -1,9 +1,4 @@
-### Hi,I'm @vaddi Ajay Nanda Kumar
-
-<!--
-**Ajaynandakumar/Ajaynandakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi,I'm @vadd Ajay Nanda Kumar
 
 - 🔭 I’m currently working on front end development projects.
 - 🌱 I’m currently learning java/python full stack development in kodnest technologies in Banglore.
